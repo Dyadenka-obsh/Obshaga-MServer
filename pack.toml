@@ -1,0 +1,13 @@
+name = "Obshaga Server 5.2"
+author = "Dyadenka"
+version = "5.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "082886ddcd700a18a96d5dd43c0748f7adf42c24dfafa1120f02f784402bc1f8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
