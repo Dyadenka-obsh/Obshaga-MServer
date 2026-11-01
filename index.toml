@@ -81,6 +81,11 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "6dc69e48da9a2dadcce285602296efc868b9e429ff3c7cc7a4e99c5dcd10e61a"
+metafile = true
+
+[[files]]
 file = "mods/cynosure-1.0.3-neoforge-1.21.1.jar"
 hash = "d0d4bc6fc301c55485b2b91dff5a33b2ab5df1531c536cb0d4e6a52abcb855c6"
 
