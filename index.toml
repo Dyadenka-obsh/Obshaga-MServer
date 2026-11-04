@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changelog.txt"
+hash = "71a953b5fec708cf06f38b111b9a5d251121872683730a60d9094bbac0574526"
+
+[[files]]
 file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
 hash = "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
 
@@ -53,6 +57,10 @@ file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
 [[files]]
+file = "mods/colonypathingedition-1.21.1-1.0.5-fix-7.1.jar"
+hash = "4cd9c171388cfd37e9e85256f998db055df744f439a3c8183523b8de6df52692"
+
+[[files]]
 file = "mods/copycats-3.0.9+mc.1.21.1-neoforge.jar"
 hash = "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e"
 
@@ -75,6 +83,10 @@ hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
 [[files]]
 file = "mods/createestrogen-2.0.0+1.21.1.jar"
 hash = "fc46ad25bd0d9c61f799aac6d94c9f5e4ce3960e8de96a48664e9f70534489ac"
+
+[[files]]
+file = "mods/createminecolonies-1.5.jar"
+hash = "53ceed789e4acea9b9dba86b0042703c89514d64136435f6e07b7c9ab4b49e41"
 
 [[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
@@ -164,6 +176,10 @@ hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 [[files]]
 file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
 hash = "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
+
+[[files]]
+file = "mods/regionguard-0.2.0-mc1.21.x.jar"
+hash = "1d6d416831dd4e744e009c7ef7edd98b8d0a275f16a6d29b40a0a5052ddd607d"
 
 [[files]]
 file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
