@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.txt"
-hash = "71a953b5fec708cf06f38b111b9a5d251121872683730a60d9094bbac0574526"
+hash = "2657871c1008b5eff7e7b2fce170dbc8171cd22e877c88ac4f15b059719ecf62"
 
 [[files]]
 file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
